@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/win10/static/css/main.ccf2cfe0.css",
+    "main.js": "/win10/static/js/main.745ec435.js",
+    "static/js/630.dc9335e0.chunk.js": "/win10/static/js/630.dc9335e0.chunk.js",
+    "static/js/858.9469700c.chunk.js": "/win10/static/js/858.9469700c.chunk.js",
+    "static/js/372.f85aa7b8.chunk.js": "/win10/static/js/372.f85aa7b8.chunk.js",
+    "static/js/856.994cff2a.chunk.js": "/win10/static/js/856.994cff2a.chunk.js",
+    "static/js/22.dd6b8734.chunk.js": "/win10/static/js/22.dd6b8734.chunk.js",
+    "static/js/851.22dc023d.chunk.js": "/win10/static/js/851.22dc023d.chunk.js",
+    "static/js/215.89d7e88c.chunk.js": "/win10/static/js/215.89d7e88c.chunk.js",
+    "static/js/841.0e9673cc.chunk.js": "/win10/static/js/841.0e9673cc.chunk.js",
+    "static/js/186.44f714fc.chunk.js": "/win10/static/js/186.44f714fc.chunk.js",
+    "static/js/743.94ca1a8c.chunk.js": "/win10/static/js/743.94ca1a8c.chunk.js",
+    "static/js/377.d6c4593b.chunk.js": "/win10/static/js/377.d6c4593b.chunk.js",
+    "service-worker.js": "/win10/service-worker.js",
+    "index.html": "/win10/index.html",
+    "main.ccf2cfe0.css.map": "/win10/static/css/main.ccf2cfe0.css.map",
+    "main.745ec435.js.map": "/win10/static/js/main.745ec435.js.map",
+    "630.dc9335e0.chunk.js.map": "/win10/static/js/630.dc9335e0.chunk.js.map",
+    "858.9469700c.chunk.js.map": "/win10/static/js/858.9469700c.chunk.js.map",
+    "372.f85aa7b8.chunk.js.map": "/win10/static/js/372.f85aa7b8.chunk.js.map",
+    "856.994cff2a.chunk.js.map": "/win10/static/js/856.994cff2a.chunk.js.map",
+    "22.dd6b8734.chunk.js.map": "/win10/static/js/22.dd6b8734.chunk.js.map",
+    "851.22dc023d.chunk.js.map": "/win10/static/js/851.22dc023d.chunk.js.map",
+    "215.89d7e88c.chunk.js.map": "/win10/static/js/215.89d7e88c.chunk.js.map",
+    "841.0e9673cc.chunk.js.map": "/win10/static/js/841.0e9673cc.chunk.js.map",
+    "186.44f714fc.chunk.js.map": "/win10/static/js/186.44f714fc.chunk.js.map",
+    "743.94ca1a8c.chunk.js.map": "/win10/static/js/743.94ca1a8c.chunk.js.map",
+    "377.d6c4593b.chunk.js.map": "/win10/static/js/377.d6c4593b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf2cfe0.css",
+    "static/js/main.745ec435.js"
+  ]
+}
