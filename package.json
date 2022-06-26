@@ -1,4 +1,5 @@
 {
+  "homepage": "https://andreseger45.github.io/win10",
   "name": "calculator",
   "version": "0.0.1",
   "private": true,
@@ -42,10 +43,13 @@
     "workbox-streams": "^5.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --transformIgnorePatterns 'node_modules/(?!(@ionic/react|@ionic/react-router|@ionic/core|@stencil/core|ionicons)/)'",
     "eject": "react-scripts eject"
+
   },
   "eslintConfig": {
     "extends": [
