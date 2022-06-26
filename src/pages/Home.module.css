@@ -1,0 +1,52 @@
+.calculatorContainer {
+
+    
+    background-color: black;
+   
+    
+    
+}
+
+.sumContainer {
+
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: flex-end;
+    padding-right: 2rem;
+   
+    
+    background-color: black;
+    padding: 2rem;
+    height: 100%;
+    padding-bottom: 15px;
+   
+}
+
+.sumContainer h1,
+.sumContainer h4,
+.sumContainer p {
+
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.sumContainer h1 {
+
+    font-size: 4rem;
+}
+
+.sumContainer p {
+
+    font-size: 2rem;
+    color: rgb(163, 163, 163);
+}
+
+.sumContainer h4 {
+
+    color: rgb(197, 197, 197);
+}
+

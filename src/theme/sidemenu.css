@@ -1,0 +1,30 @@
+.IonMenu{
+    background-color: black;
+}
+.ionTitle{
+    background-color: black;
+    height: 100%;
+    padding: 20px;
+}
+.iontoolbar{
+    background-color: black;
+
+}
+
+.ionList{
+    background-color: black;
+    padding: 10px;
+}
+.ionContent{
+    background-color: black;
+    padding: 20px;
+   
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    
+  
+}
+.ionMenuButton{
+    color: white;
+}
